@@ -17,7 +17,7 @@ const Header = () => {
     <header className={styles.header}>
 
       <div className={styles.logo}>
-        <Image className={styles.img} src="/images/itunes.png" alt="Logo"  width={50} height={80}/>
+        <Image className={styles.img} src="/images/logo.png" alt="Logo"  width={50} height={80}/>
         <h1 className={styles.h1}>playlist</h1>
       </div>
 
